@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-inverse bg-inverse navbar-fixed-top">
+  <nav class="navbar navbar-deafault navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -25,13 +25,14 @@
         <ul class="nav navbar-nav navbar-right">
           <li role="presentation"><a href="#aboutShekhar">ABOUT ME </a></li>
           <li role="presentation"><a href="#portfolio">PORTFOLIO</a></li>
+          <li role="presentation"><a href="#resume">RESUME</a></li>
           <li role="presentation"><a href="#contact-form">CONTACT</a></li>
         </ul>
       </div>
     </div>
   </nav>
   <!-- first container about Shekhar Aryal-->
-  <div class="container-fluid aboutShekhar text-center">
+  <div id="aboutShekhar" class="container-fluid  text-center">
     <h1>SHEKHAR ARYAL</h1>
     <hr class=hr-modify>
     <span id="jobSpecificFont">Web Application Developer - Front End Developer - Software Engineer</span><br><br>
@@ -55,7 +56,7 @@
     </div>
   </div>
   <!--second container portfolio-->
-  <div class="container-fluid portfolio text-center">
+  <div id="portfolio" class="container-fluid text-center">
     <h1>PORTFOLIO</h1>
     <hr class=hr-modify>
     <div class="row">
@@ -148,7 +149,96 @@
     </div>
   </div>
   <!--third container contact form-->
-  <div class="container-fluid contact-form text-center">
+  <div id="resume" class="container-fluid  ">
+    <h1 class="text-center">RESUME</h1>
+    <hr class=hr-modify>
+    <div class="row">
+      <div class="col-md-4">
+        <h3> <u> EDUCATION </u></h3>
+        <h4>Bachelor of Engineering in Information Technology</h4>
+        <h5>Helsinki Metroplia University of Applied Sciences</h5>
+        <span> 2009-2014</span>
+        <span> Helsinki, Finland</span>
+        <h5>Courses</h5>
+        <div class="col-md-6 ">
+          <ul>
+            <li>Web Programming </li>
+            <li>Software Testing</li>
+            <li>Programming ( Java, C++, C) </li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>Software Engineering</li>
+            <li>Sustainable ICT</li>
+            <li>Cisco Networking (CCNA1, CCNA2, CCNA3</li>
+          </ul>
+        </div>
+        <h4>Training, Computer Science</h4>
+        <h5>College of Software Engineering</h5>
+        <span>2008-2009</span>
+        <span> Butwal, Nepal</span>
+        <h5>Courses</h5>
+        <div class="col-md-6 ">
+          <ul>
+            <li>Computer Architecture & Assembling</li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>Software Trouble Shooting & Installations</li>
+          </ul>
+        </div>
+      </div>
+      <!--end of md-6-->
+      <div class="col-md-4">
+        <h3> <u>WORK EXPERIENCE</u></h3>
+        <h4>1. Front End Developer</h4>
+        <h5>FreeCode Camp</h5>
+        <span>2016-present</span>
+        <span> Helsinki, Finland</span>
+        <h5>Tasks and Achievements</h5>
+        <ul>
+          <li>HTML5 and CSS</li>
+          <li>Responsive Design with Bootstrap</li>
+          <li>JQuery , JSON APIs and Ajax</li>
+          <li>JavaScript ( Intermediate Algorithm Script)</li>
+          <li>Object Oriented and Functional Programming</li>
+        </ul>
+
+        <h4>2. Research Assistant at Metropolia School of ICT</h4>
+        <h5>Helsinki Metropolia Universtiy of Applied Sciences</h5>
+        <span>09/2013 – 12/2013</span>
+        <span>Leppävaara, Espoo, Finland</span>
+        <h5>Design picture based news android application for Helsinki Sanomat</h5>
+        <ul>
+          <li>Design of use cases and user experience</li>
+          <li>Implementing the client software with java for android</li>
+          <li>Using scrum methodology for the development</li>
+        </ul>
+
+        <h4>3. Research and Devlopment Assistant</h4>
+        <h5>Agile Solutions (P) Ltd</h5>
+        <span>12/2013 – 03/2014</span>
+        <span>Kathmandu , Nepal</span>
+        <h5>Research and Development Assistant for Customization and Development of Employee self-service Portal integrated with Microsoft Dynamic NAC ( ERP)</h5>
+        <ul>
+          <li>Requirement analysis, gap-fit analysis and documentation of functional requirement and technical design document</li>
+          <li>Tool used of Microsoft Sure Step project management, Ms excel, PowerPoint, Visual Studio 2010, MS SQL Server 2008 R2 database</li>
+          <li>Basic of ERP solutions, service orinted architecture</li>
+        </ul>
+      </div>
+      <!--end of md-6-->
+      <div class="col-md-4">
+        <h3> <u>SKILLS & COMPETENCE </u></h3>
+        <div id="skill"></div>
+        <h3> <u>LANGUAGES </u></h3>
+        <div id="language"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="contact-form" class="container-fluid  text-center">
     <h1>CONTACT ME</h1>
     <hr class=hr-modify>
     <div class="row">
@@ -195,7 +285,7 @@
     </div>
   </div>
   <!-- fourth container footer-->
-  <div class="container-fluid footer text-center">
+  <div id="footer" class="container-fluid footer text-center">
 
     <a href="https://www.freecodecamp.com/shekhar123" target='_blank'>
         <span class="fa-stack fa-3x social ">
@@ -221,6 +311,13 @@
            <i class="fa fa-codepen fa-stack-1x"></i>
          </span></a>
     <br><span>Copyright© SHEKHAR ARYAL</span>
+    <p>
+      <ul id="ul-resume">
+        <li> <i class="fa fa-envelope fa-lg"></i> shekhar.aryal123@gmail.com </li>
+        <li> <i class="fa fa-mobile fa-lg "></i> +358-440472013 </li>
+        <li> <i class="fa fa-map fa-lg "></i> Kivensilmänkuja 6B 20 </li>
+      </ul>
+    </p>
   </div>
 
 </body>

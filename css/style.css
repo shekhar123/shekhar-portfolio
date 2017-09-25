@@ -10,12 +10,29 @@ body {
   border: solid;
   padding: 0;
 }
-
-.navbar-inverse {
+.navbar{
+  margin-bottom: 0;
   background-color: #2C3E50;
-  min-height: 60px;
-  font-family: "Arial Black", Gadget, sans-serif;
+  z-index: 9999;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
+  font-family: Montserrat, sans-serif;
 }
+.navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #f4511e !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+
 
 #jobSpecificFont {
   font-family: Arial Black, Gadget, sans-serif;
@@ -62,13 +79,10 @@ body {
   -ms-transform: translate(-50%, -50%);
 }
 
-.contact-form {
-
-}
 #contactForm .has-error .control-label, #contactForm .has-error .help-block {
   color: #f39c12;
 }
-.footer{
+#footer{
   color: #fff;
   padding: 20px;
   background-color: #2C3E50;
@@ -92,4 +106,11 @@ body {
 
 .fa-stack {
   color: #fff;
+}
+#ul-resume{
+  list-style:none;
+}
+#ul-resume li{
+  display:inline;
+  padding:10px;
 }
