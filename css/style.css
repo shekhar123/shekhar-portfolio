@@ -32,7 +32,7 @@ body {
       border-color: transparent;
       color: #fff !important;
   }
-.container-fluid{
+#aboutShekhar,#portfolio,#resume,#contact-form{
   padding-top:60px;
 }
 
@@ -88,6 +88,7 @@ body {
   color: #fff;
   padding: 20px;
   background-color: #2C3E50;
+  margin-bottom: 15px;
 }
 
 .social:hover {
