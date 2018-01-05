@@ -19,6 +19,12 @@ const skills =
 
 const projectResources = [
   {
+    "ProjectName":"Katsojuna",
+    "description":"",
+    "ImageLInk": "https://farm5.staticflickr.com/4371/36186397560_908f030f9f_b.jpg",
+    "ProjectLink": "https://katsojuna-app.appspot.com/train/departure-arrival"
+  },
+  {
     "ProjectName":"TrainViewer",
     "description":"",
     "ImageLInk": "https://farm5.staticflickr.com/4371/36186397560_908f030f9f_b.jpg",
@@ -28,7 +34,7 @@ const projectResources = [
     "ProjectName":"Report App",
     "description":"",
     "ImageLInk": "https://farm5.staticflickr.com/4593/25261894418_2dcb299ddc_b.jpg",
-    "ProjectLink": "https://damage-road.appspot.com/"
+    "ProjectLink": "https://report-191114.appspot.com/"
   },
   {
     "ProjectName":"Weather app",
