@@ -21,7 +21,7 @@ const projectResources = [
   {
     "ProjectName":"Katsojuna",
     "description":"",
-    "ImageLInk": "https://farm5.staticflickr.com/4371/36186397560_908f030f9f_b.jpg",
+    "ImageLInk": "https://farm5.staticflickr.com/4638/39564955041_9b1a528e58_b.jpgπ",
     "ProjectLink": "https://katsojuna-app.appspot.com/train/departure-arrival"
   },
   {
