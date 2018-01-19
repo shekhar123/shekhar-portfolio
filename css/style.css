@@ -1,8 +1,12 @@
 body {
   padding-top: 50px;
   font-family: Times New Roman, Times, serif;
-  font-size: 15px;
-  background-color:#EAE1D2;
+  font-size: 18px;
+  background-color:#F8F8F8;
+}
+.font-id{
+  font-size: 40px;
+  font-family: 'Cambo', serif;
 }
 .hr-modify {
   max-width: 500px;
@@ -34,11 +38,17 @@ body {
   }
 #aboutShekhar,#portfolio,#resume,#contact-form{
   padding-top:60px;
+  border: solid;
+
+}
+#aboutShekhar{
+
 }
 
 #jobSpecificFont {
   font-family: Arial Black, Gadget, sans-serif;
   font-size: 18px;
+  text-align: center;
 }
 mark{
   background-color: yellow;
@@ -82,7 +92,9 @@ mark{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-
+#resume{
+  font-size: 18px;
+}
 #contactForm .has-error .control-label, #contactForm .has-error .help-block {
   color: #f39c12;
 }
