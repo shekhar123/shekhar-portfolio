@@ -34,7 +34,7 @@ const projectResources = [
     "ProjectName":"Report App",
     "description":"",
     "ImageLInk": "https://farm5.staticflickr.com/4593/25261894418_2dcb299ddc_b.jpg",
-    "ProjectLink": "https://report-191114.appspot.com/"
+    "ProjectLink": "https://report-app-nodejs.herokuapp.com/"
   },
   {
     "ProjectName":"Weather app",
