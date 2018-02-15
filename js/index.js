@@ -25,10 +25,10 @@ const projectResources = [
     "ProjectLink": "http://katsojunat.fi"
   },
   {
-    "ProjectName":"TrainViewer",
+    "ProjectName":"Viral Images",
     "description":"",
-    "ImageLInk": "https://farm5.staticflickr.com/4371/36186397560_908f030f9f_b.jpg",
-    "ProjectLink": "https://shekhar123.github.io/TrainViewer/"
+    "ImageLInk": "https://farm5.staticflickr.com/4653/26412674418_7ecc5e2d22_b.jpg",
+    "ProjectLink": "https://viralimages.herokuapp.com/"
   },
   {
     "ProjectName":"Report App",
