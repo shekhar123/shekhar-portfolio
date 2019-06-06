@@ -131,3 +131,19 @@ mark{
   display:inline;
   padding:10px;
 }
+
+h1{
+  color: darkred;
+  font-weight: bold;
+}
+h3{
+  color: darkred;
+  font-weight: bold;
+}
+h4{
+  color:darkblue;
+  font-weight: bold;
+}
+h2 {
+
+}

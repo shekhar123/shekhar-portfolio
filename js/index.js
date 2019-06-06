@@ -8,13 +8,13 @@ const language =[["Englis",4],["Finnish: YKI Certified",3],["Hindi",4],["Nepali"
 const skills =
 ["<strong>Model Drivent Architecture approach using UML.</strong>",
 "<strong> Agile application development methodology using  Scrum </strong>",
-"<strong>Version Control:</strong> Git & Github.",
-"<strong>Development platforms:</strong> Atom, Eclipse, NetBeans, Visual Studio, DreamWeaver." ,
-"<strong>Management Tool:</strong> Trello, Basecamp.",
-"<strong>Front-End:</strong> HTML/HTML5, JavaScript ECMA 5, ECMA 6, CSS 3, Jquery Library, Bootstrap framework, Responsive Design, Ajax, JSON, RESTful API Learning REACT Framework. ",
-"<strong>Back-End:</strong> Learning: NodeJs, Using ExpressJs framework, MongoDB, MYSQL database, SQL language.",
-"<strong>Programming language:</strong> Basic C , C++, Java.",
-"<strong>Certifications:</strong>Bachelore in Information Technology, Computer Architecture & Assembling, Finnish YKI Test.",
+"<strong>Version Control:</strong> Git,Github,Gitlab & Bitbucket",
+"<strong>Development platforms:</strong> IntelliJ IDEA, Atom, Eclipse, NetBeans, Visual Studio, DreamWeaver." ,
+"<strong>Management Tool:</strong> Trello, Basecamp, JIRA",
+"<strong>Front-End:</strong> HTML/HTML5, JavaScript ECMA 5, ECMA 6, CSS 3, Jquery Library, Bootstrap framework, Responsive Design, Ajax, JSON, RESTful API, REACT Framework. ",
+"<strong>Back-End:</strong> NodeJs, Appache Maven, ExpressJs, MongoDB",
+"<strong>Programming language:</strong> JS & Java , Basic C & C++",
+"<strong>Certifications:</strong>Bachelore in Information Technology (Helsinki Metropolia University of Applied Sciences), Computer Architecture & Assembling, Finnish YKI Test.",
  "<strong>Others:</strong>Sustainale ICT Project, Networking: CCNA1, CCNA2, CCNA3, IT security, Photoshop, Unix, OOP, Functional Programming, DRY approach."];
 
 const projectResources = [
