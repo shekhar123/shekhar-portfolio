@@ -3,6 +3,7 @@ body {
   font-family: Times New Roman, Times, serif;
   font-size: 18px;
   background-color:#F8F8F8;
+  color:#2C3E50;
 }
 .font-id{
   font-size: 40px;
@@ -38,10 +39,7 @@ body {
   }
 #aboutShekhar,#portfolio,#resume,#contact-form{
   padding-top:60px;
-  border: solid;
-
-}
-#aboutShekhar{
+  border-bottom: solid;
 
 }
 
@@ -121,6 +119,7 @@ mark{
   -o-transition-duration: 0.5s;
 }
 
+
 .fa-stack {
   color: #fff;
 }
@@ -128,22 +127,30 @@ mark{
   list-style:none;
 }
 #ul-resume li{
+  color:#fff;
   display:inline;
   padding:10px;
 }
-
+.task{
+  color: #2C3E50;
+}
+.snapshot{
+  background-color: lightblue;
+}
 h1{
   color: darkred;
   font-weight: bold;
 }
 h3{
-  color: darkred;
+  color: #2C3E50;
   font-weight: bold;
 }
 h4{
   color:darkblue;
   font-weight: bold;
 }
-h2 {
 
+li{
+  color:#2C3E50;
+  font-weight: bold;
 }
