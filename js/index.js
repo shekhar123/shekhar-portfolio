@@ -13,7 +13,7 @@ const skills =
         "<strong>Front-End:</strong> HTML/HTML5, JavaScript ECMA 5, ECMA 6, CSS 3, Jquery Library, Bootstrap framework, Responsive Design, Ajax, JSON, RESTful API, REACT Framework. ",
         "<strong>Back-End:</strong> NodeJs, Appache Maven, ExpressJs, Java SE, Python , Basic C & C++",
         "<strong>Database:</strong> NoSQL MongoDB , Basic MySQL SQL",
-        "<strong>Programming language:</strong> JS & Java , Basic C & C++",
+        "<strong>Programming language:</strong> JS, TypeScript, Java, Python, Basic C & C++",
         "<strong>Others:</strong>Sustainale ICT Project, Networking: CCNA1, CCNA2, CCNA3, IT security, Photoshop, Unix, OOP, Functional Programming, DRY approach."];
 
 const projectResources = [
@@ -35,12 +35,12 @@ const projectResources = [
         "ImageLInk": "https://farm5.staticflickr.com/4593/25261894418_2dcb299ddc_b.jpg",
         "ProjectLink": "https://report-app-nodejs.herokuapp.com/"
     },
-    {
-        "ProjectName": "Weather app",
-        "description": "",
-        "ImageLInk": "https://farm5.staticflickr.com/4405/36179527492_f98d07fd62_b.jpg",
-        "ProjectLink": "https://shekhar123.github.io/weatherApp/"
-    },
+    // {
+    //     "ProjectName": "Weather app",
+    //     "description": "",
+    //     "ImageLInk": "https://farm5.staticflickr.com/4405/36179527492_f98d07fd62_b.jpg",
+    //     "ProjectLink": "https://shekhar123.github.io/weatherApp/"
+    // },
     {
         "ProjectName": "Calculator",
         "description": "",
@@ -65,12 +65,12 @@ const projectResources = [
         "ImageLInk": "https://farm5.staticflickr.com/4306/35862014952_95124d5b37_b.jpg",
         "ProjectLink": "https://shekhar123.github.io/Wikipedia-Viewer/"
     },
-    {
-        "ProjectName": "Randome Quotes",
-        "description": "",
-        "ImageLInk": "https://farm5.staticflickr.com/4292/35991681786_0cafcda7eb_b.jpg",
-        "ProjectLink": "https://shekhar123.github.io/RandomQuotes/"
-    },
+    // {
+    //     "ProjectName": "Randome Quotes",
+    //     "description": "",
+    //     "ImageLInk": "https://farm5.staticflickr.com/4292/35991681786_0cafcda7eb_b.jpg",
+    //     "ProjectLink": "https://shekhar123.github.io/RandomQuotes/"
+    // },
     {
         "ProjectName": "Himalayan Kitchen",
         "description": "",
