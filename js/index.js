@@ -21,7 +21,7 @@ const projectResources = [
         "ProjectName": "Katsojuna",
         "description": "",
         "ImageLInk": "https://farm5.staticflickr.com/4638/39564955041_9b1a528e58_b.jpgπ",
-        "ProjectLink": "http://katsojunat.fi"
+        "ProjectLink": "https://katsojunat.herokuapp.com/train/departure-arrival"
     },
     {
         "ProjectName": "Viral Images",
