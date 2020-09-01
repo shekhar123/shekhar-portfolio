@@ -5,16 +5,20 @@ const language = [["Englis", 4], ["Finnish: YKI Certified", 3], ["Hindi", 4], ["
 
 
 const skills =
-    ["<strong>Model Drivent Architecture approach using UML.</strong>",
+    ["<strong>Model Driven Architecture approach using UML</strong>",
+        "<strong>Event-driven architecture (EDA) </strong>",
         "<strong> Agile application development methodology using  Scrum </strong>",
         "<strong>Version Control:</strong> Git,Github,Gitlab & Bitbucket",
         "<strong>Development platforms:</strong> IntelliJ IDEA, Atom, Eclipse, NetBeans, Visual Studio, DreamWeaver.",
         "<strong>Management Tool:</strong> Trello, Basecamp, JIRA",
         "<strong>Front-End:</strong> HTML/HTML5, JavaScript ECMA 5, ECMA 6, CSS 3, Jquery Library, Bootstrap framework, Responsive Design, Ajax, JSON, RESTful API, REACT Framework. ",
         "<strong>Back-End:</strong> NodeJs, Appache Maven, ExpressJs, Java SE, Python , Basic C & C++",
-        "<strong>Database:</strong> NoSQL MongoDB , Basic MySQL SQL",
+        "<strong>Database:</strong> MongoDB , Basic MySQL, SQL",
         "<strong>Programming language:</strong> JS, TypeScript, Java, Python, Basic C & C++",
-        "<strong>Others:</strong>Sustainale ICT Project, Networking: CCNA1, CCNA2, CCNA3, IT security, Photoshop, Unix, OOP, Functional Programming, DRY approach."];
+        "<strong>Others:</strong> Web API Services (REST &  SOAP), Sustainable ICT Project, Networking: CCNA1," +
+        " CCNA2, CCNA3, IT" +
+        " security," +
+        " Photoshop, Unix, OOP, Functional Programming, DRY approach."];
 
 const projectResources = [
     {
