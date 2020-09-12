@@ -7,12 +7,14 @@ const language = [["Englis", 4], ["Finnish: YKI Certified", 3], ["Hindi", 4], ["
 const skills =
     ["<strong>Model Driven Architecture approach using UML</strong>",
         "<strong>Event-driven architecture (EDA) </strong>",
-        "<strong> Agile application development methodology using  Scrum </strong>",
-        "<strong>Version Control:</strong> Git,Github,Gitlab & Bitbucket",
+        "<strong> Agile application development using  Scrum </strong>",
+        "<strong>Version Control:</strong> Git, Github, Gitlab & Bitbucket",
         "<strong>Development platforms:</strong> IntelliJ IDEA, Atom, Eclipse, NetBeans, Visual Studio, DreamWeaver.",
-        "<strong>Management Tool:</strong> Trello, Basecamp, JIRA",
-        "<strong>Front-End:</strong> HTML/HTML5, JavaScript ECMA 5, ECMA 6, CSS 3, Jquery Library, Bootstrap framework, Responsive Design, Ajax, JSON, RESTful API, REACT Framework. ",
-        "<strong>Back-End:</strong> NodeJs, Appache Maven, ExpressJs, Java SE, Python , Basic C & C++",
+        "<strong>Management tools :</strong> Trello, Basecamp, JIRA ",
+        "<strong>Front-End:</strong> HTML/HTML5, JavaScript ECMA 5, ECMA 6, CSS 3, Jquery Library, Responsive Design, Ajax, JSON ",
+        "<strong>Back-End:</strong> Node.js, Java, Python, TypeScript Basic C & C++",
+        "<strong>Framework and Monitoring Tools</strong> ExpressJs, Robot Framework, Serverless Framework, Apache Maven," +
+        " Bootstrap Framework, React Framework, New Relic, Opsgeine, Statuspage",
         "<strong>Database:</strong> MongoDB , Basic MySQL, SQL",
         "<strong>Programming language:</strong> JS, TypeScript, Java, Python, Basic C & C++",
         "<strong>Others:</strong> Web API Services (REST &  SOAP), Sustainable ICT Project, Networking: CCNA1," +
@@ -33,12 +35,12 @@ const projectResources = [
         "ImageLInk": "https://farm5.staticflickr.com/4653/26412674418_7ecc5e2d22_b.jpg",
         "ProjectLink": "https://viralimages.herokuapp.com/"
     },
-    {
-        "ProjectName": "Report App",
-        "description": "",
-        "ImageLInk": "https://farm5.staticflickr.com/4593/25261894418_2dcb299ddc_b.jpg",
-        "ProjectLink": "https://report-app-nodejs.herokuapp.com/"
-    },
+    // {
+    //     "ProjectName": "Report App",
+    //     "description": "",
+    //     "ImageLInk": "https://farm5.staticflickr.com/4593/25261894418_2dcb299ddc_b.jpg",
+    //     "ProjectLink": "https://report-app-nodejs.herokuapp.com/"
+    // },
     // {
     //     "ProjectName": "Weather app",
     //     "description": "",
