@@ -1,7 +1,7 @@
 const skillName = [["JavaScript", 4], ["JSON/Ajax", 4], ["HTML/HTML5", 4], ["JQuery", 4],
     ["CSS", 4], ["Unix", 3], ["Java & C", 3],
     ["Bootstrap", 4], ["Wordpress CMS", 3]];
-const language = [["Englis", 4], ["Finnish: YKI Certified", 3], ["Hindi", 4], ["Nepali", 5]];
+const language = [["English", 4], ["Finnish: YKI Certified", 3], ["Hindi", 4], ["Nepali", 5]];
 
 
 const skills =
